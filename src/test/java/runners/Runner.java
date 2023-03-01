@@ -18,12 +18,12 @@ import org.junit.runner.RunWith;
 
             features = "src/test/resources",
             glue = "stepdefinitions",
-            tags = "@negative", // Keyword Driven Testing
+            tags = "@positive", // Keyword Driven Testing
             dryRun = false
 
 
     )
-    public class runner {
+    public class Runner {
 
     }
 

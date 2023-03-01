@@ -39,7 +39,7 @@ public class Hooks {
 
     @AfterStep
     public void makeSlowRunning() throws InterruptedException {
-        Driver.wait(1);
+       // Driver.wait(1);
         this.stepCount = stepCount + 1;
         System.out.println((stepCount) + ". STEP");
     }

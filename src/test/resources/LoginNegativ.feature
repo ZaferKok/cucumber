@@ -19,3 +19,10 @@ Feature: Kullanici login sayfasina bilgilerini girer ve ana sayfaya gecis yapar
         |Ka.asdc!|
         |Ka.4512,|
 
+      # TDD (Test Driven Development)
+      # BDD (Beheviour Driven Development)
+
+      # DDT (Data Driven Testing)
+      # KDT (Keyword Driven Testing)
+
+
